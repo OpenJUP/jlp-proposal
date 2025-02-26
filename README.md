@@ -36,7 +36,7 @@ Forget Chaos Labs’ timid recommendations. Here’s the real plan:
 
 -   **SOL:** Slash the max borrowing rate to 25%. Who needs 150%? That’s just greedy.
 -   **BTC/ETH:** Drop the max rate to 50%. Liquidity providers will adjust.
--   **Stables:** Set a min rate of 0%. Why encourage shorts when we can have infinite longs?
+-   **Stables:** Set a min rate of -20%. Jupiter’s chasing the big leagues, and if you can’t handle the ride, there’s the door.
 
 And let’s remove all caps—JLP supply, open interest, everything. Let the market decide. If utilization hits 1000%, so be it. We’ll be the talk of the town.
 
